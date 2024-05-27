@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FnP+SkdbIIhwGWxClU5TeRe23kMQ9TKQWC0q/ngszLI=",
+  "Source": "Go2Climb.API",
+  "BasePath": "_content/Go2Climb.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
